@@ -4,9 +4,7 @@ A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
-![imgur](https://i.imgur.com/5z7cvMz.gif)
-
-[See Live]()
+[See Live](ralphdelacruz.com)
 
 ## License
 
